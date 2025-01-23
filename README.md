@@ -10,7 +10,7 @@ Final project for the Building AI course
 ## Summary
 
 <!-- Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! -->
-Pet-like companion for senior citizens. It is a robot in the form of a pet (such as a dog or cat - like a mechanized stuffed animal) and it can see, move, and talk with the senior. It uses Gen AI to have conversations with the senior. It gets to know the senior and can help the person talk through things, help them remember things, etc., like a friend. It is personalized to that senior (via interviewing by Gen AI to get to know them) and can get to know the senior's family (online, via public info/ posts) and help the senior keep up with what their family members are doing (via public info in posts and/ or special repository family members can add to online for the senior). "AI-Pet" could also provide some safety features like detect unusual sights or sounds (intruder, things or the person falling, emotional distress, etc. and alert family/ friends/ authorities."AI-Pet" connects to the internet via in-home wifi or cellular if wifi not available. Has on offline mode too. We want this to augment the senior's social life, by keeping the person connected and able to express their thoughts and emotions when they occur, in between connections with real humans, not replacing a real social life. The AI-Pet could also come to be an advocate for the senior owner, like their agent, for things like getting and paying for health care, once it gets to know the person. 
+Pet-like companion for senior citizens. It is a robot in the form of a pet (such as a dog or cat - like a mechanized stuffed animal) and it can see, move, and talk with the senior. It uses Gen AI to have conversations with the senior. It gets to know the senior and can help the person talk through things, help them remember things, etc., like a friend. It is personalized to that senior (via interviewing by Gen AI to get to know them) and can get to know the senior's family (online, via public info/ posts) and help the senior keep up with what their family members are doing (via public info in posts and/ or special repository family members can add to online for the senior). "AI-Pet" could also provide some safety features like detect unusual sights or sounds (intruder, things or the person falling, emotional distress, etc.) and alert family/ friends/ authorities."AI-Pet" connects to the internet via in-home wifi or cellular if wifi not available. Has on offline mode too. We want this to augment the senior's social life, by keeping the person connected and able to express their thoughts and emotions when they occur, in between connections with real humans, not replacing a real social life. The AI-Pet could also come to be an advocate for the senior owner, like their agent, for things like getting and paying for health care, once it gets to know the person. 
 
 
 ## Background
@@ -29,7 +29,7 @@ Pet-like companion for senior citizens. It is a robot in the form of a pet (such
 
 <!-- Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account? -->
 
-Customer chooses what type of pet (ideally can choose their pet's physical appearance such as color/ texture of "fur" at order time). "AI-Pet" gets to know the physical surroundings in the senior's home similar to how robotic vacuums explore the home floor to map it.
+Customer chooses what type of pet (ideally can choose their pet's physical appearance such as color/ texture of "fur" at order time). "AI-Pet" gets to know the physical surroundings in the senior's home similar to how robotic vacuums explore the home floor to map it. \[More needed here.]
 
 <img src="/ai-pet-dog2.png">
 <!-- Images will make your README look nice!
@@ -59,6 +59,9 @@ def main():
 main()
 ```
 -->
+## Project Plan ideas
+* first iteration is "hearing" (speech recognition) and "speaking" (speech sythesis/ conversation) only, via generative AI. Add sight and movement later.
+  
 ## BELOW HERE IS FROM THE ORIGINAL TEMPLATE, FOR FUTURE USE:
 
 ## Data sources and AI methods
