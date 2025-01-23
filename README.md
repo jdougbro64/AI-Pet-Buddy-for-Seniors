@@ -3,7 +3,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# "AI-Pet" for Senior Citizens
+# AI-Pet-Buddy for Senior Citizens
 
 Final project for the Building AI course
 
