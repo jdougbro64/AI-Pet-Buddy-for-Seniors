@@ -31,6 +31,7 @@ Pet-like companion for senior citizens. It is a robot in the form of a pet (such
 
 Customer chooses what type of pet (ideally can choose their pet's physical appearance such as color/ texture of "fur" at order time). "AI-Pet" gets to know the physical surroundings in the senior's home similar to how robotic vacuums explore the home floor to map it.
 
+<img src="/ai-pet-dog2.png">
 <!-- Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg) 
