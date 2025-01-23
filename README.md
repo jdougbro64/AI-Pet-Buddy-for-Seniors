@@ -59,6 +59,7 @@ def main():
 main()
 ```
 -->
+## BELOW HERE IS FROM THE ORIGINAL TEMPLATE, FOR FUTURE USE:
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
